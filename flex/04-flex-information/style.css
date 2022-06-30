@@ -10,6 +10,24 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.veggies {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 52px;
+  flex: 1;
+}
+
+.veggie {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 /* do not edit this footer */
